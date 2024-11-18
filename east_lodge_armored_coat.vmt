@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/east_lodge/armored_officer/east_lodge_armored_coat"
+	"$bumpmap" 	"models/east_lodge/officer/trenchcoatm_n"
+	"$alphatest" "1"
+                "$nocull" "1"
+
+}

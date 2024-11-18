@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/goc/ninja/poncho"
+
+	
+$nocull 1
+$model 1	
+"$blendTintByBaseAlpha"	"1"
+"$PhongDisableHalfLambert" "1"
+
+
+
+}
+
+

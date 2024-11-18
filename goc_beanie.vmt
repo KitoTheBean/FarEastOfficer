@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\east_lodge/armored_officer/head_goc_bm"
+	"$bumpmap"    "models\east_lodge/armored_officer/head_goc_bm_n"
+	
+$nocull 1
+$model 1	
+"$blendTintByBaseAlpha"	"1"
+"$PhongDisableHalfLambert" "1"
+
+ 
+
+}
+
+

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/east_lodge/armored_officer/east_lodge_armored_gloves"
+
+                "$nocull" "0"
+
+}

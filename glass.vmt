@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"		"models/east_lodge/armored_officer\glass"
+	"$halflambert" 1
+	$phong 1
+//	$phongexponent 5
+	$phongboost	6
+	$phongfresnelranges	"[0.05 0.5 1]"
+
+	$translucent 1
+}
